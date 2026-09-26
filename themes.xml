@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.SPRudraksha" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/sp_brown</item>
+        <item name="android:navigationBarColor">@color/sp_cream</item>
+        <item name="android:statusBarColor">@color/sp_brown</item>
+    </style>
+</resources>
